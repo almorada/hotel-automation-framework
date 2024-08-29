@@ -28,7 +28,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ru', 'fr', 'es'],
   },
 
   presets: [
@@ -45,7 +45,8 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/almorada/hotel-automation-framework/',
+            'https://github.com/almorada/hotel-automation-framework/edit/main',
+          editLocalizedFiles: true
         },
         blog: false,
         // blog: {
@@ -87,6 +88,10 @@ const config: Config = {
         //   label: 'Tutorial',
         // },
         // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://github.com/almorada/hotel-automation-framework',
           label: 'GitHub',

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Suivant",
+    "description": "L'étiquette pour la version current"
+  },
+  "sidebar.tutorialSidebar.category.Foundation": {
+    "message": "Fondation",
+    "description": "L'étiquette pour la catégorie Foundation dans le sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guest-Facing Automations": {
+    "message": "Automatisations pour les clients",
+    "description": "L'étiquette pour la catégorie Guest-Facing Automations dans le sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Operational Automations": {
+    "message": "Automatisations opérationnelles",
+    "description": "L'étiquette pour la catégorie Operational Automations dans le sidebar tutorialSidebar"
+  }
+}

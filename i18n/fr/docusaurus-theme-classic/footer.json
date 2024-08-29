@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Documentation",
+    "description": "Le titre de la colonne de liens du pied de page avec le titre=Docs"
+  },
+  "link.title.Community": {
+    "message": "Communauté",
+    "description": "Le titre de la colonne de liens du pied de page avec le titre=Community"
+  },
+  "link.title.More": {
+    "message": "Plus",
+    "description": "Le titre de la colonne de liens du pied de page avec le titre=More"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduction",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=Introduction, pointant vers /"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=Discord, pointant vers https://discord.gg/jqkaypNE"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=YouTube, pointant vers https://www.youtube.com/@hotel_automation_framework"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=LinkedIn, pointant vers https://www.linkedin.com/company/hotel-automation-framework"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=Facebook, pointant vers https://www.facebook.com/people/Hotel-Automation-Framework/61564911578999/"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=Instagram, pointant vers https://www.instagram.com/hotel_automation_framework/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=GitHub, pointant vers https://github.com/almorada/hotel-automation-framework"
+  },
+  "link.item.label.Almorada": {
+    "message": "Almorada",
+    "description": "L'étiquette du lien du pied de page avec l'étiquette=Almorada, pointant vers https://saas.almorada.es"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 Hotel Automation Framework. Construit avec Docusaurus par Almorada.",
+    "description": "Le droit d'auteur du pied de page"
+  }
+}

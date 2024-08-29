@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Enciclopedia de Automatización Hotelera",
+    "description": "El título en la barra de navegación"
+  },
+  "logo.alt": {
+    "message": "Logotipo",
+    "description": "El texto alternativo del logotipo en la barra de navegación"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Elemento de la barra de navegación con la etiqueta GitHub"
+  }
+}

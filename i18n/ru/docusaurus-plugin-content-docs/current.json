@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Следующая",
+    "description": "Ярлык для версии current"
+  },
+  "sidebar.tutorialSidebar.category.Foundation": {
+    "message": "Основа",
+    "description": "Ярлык для категории Foundation в sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guest-Facing Automations": {
+    "message": "Автоматизация для гостей",
+    "description": "Ярлык для категории Guest-Facing Automations в sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Operational Automations": {
+    "message": "Операционная автоматизация",
+    "description": "Ярлык для категории Operational Automations в sidebar tutorialSidebar"
+  }
+}

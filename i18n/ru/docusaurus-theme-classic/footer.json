@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Документация",
+    "description": "Название столбца ссылок в нижнем колонтитуле с заголовком=Docs"
+  },
+  "link.title.Community": {
+    "message": "Сообщество",
+    "description": "Название столбца ссылок в нижнем колонтитуле с заголовком=Community"
+  },
+  "link.title.More": {
+    "message": "Еще",
+    "description": "Название столбца ссылок в нижнем колонтитуле с заголовком=More"
+  },
+  "link.item.label.Introduction": {
+    "message": "Введение",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=Introduction, ссылающейся на /"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=Discord, ссылающейся на https://discord.gg/jqkaypNE"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=YouTube, ссылающейся на https://www.youtube.com/@hotel_automation_framework"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=LinkedIn, ссылающейся на https://www.linkedin.com/company/hotel-automation-framework"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=Facebook, ссылающейся на https://www.facebook.com/people/Hotel-Automation-Framework/61564911578999/"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=Instagram, ссылающейся на https://www.instagram.com/hotel_automation_framework/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=GitHub, ссылающейся на https://github.com/almorada/hotel-automation-framework"
+  },
+  "link.item.label.Almorada": {
+    "message": "Almorada",
+    "description": "Ярлык ссылки в нижнем колонтитуле с меткой=Almorada, ссылающейся на https://saas.almorada.es"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 Hotel Automation Framework. Создано с помощью Docusaurus компанией Almorada.",
+    "description": "Авторские права в нижнем колонтитуле"
+  }
+}
