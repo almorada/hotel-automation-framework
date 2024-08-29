@@ -113,6 +113,22 @@ const config: Config = {
               label: 'Discord',
               href: 'https://discord.gg/jqkaypNE',
             },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/@hotel_automation_framework',
+            },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/hotel-automation-framework',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/people/Hotel-Automation-Framework/61564911578999/',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/hotel_automation_framework/',
+            },
           ],
         },
         {
@@ -124,7 +140,7 @@ const config: Config = {
             // },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/almorada/hotel-automation-framework',
             },
             {
               label: 'Almorada',
