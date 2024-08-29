@@ -37,7 +37,7 @@ const config: Config = {
       {
         gtag: {
           trackingID: 'G-57J24CZ6LQ',
-          anonymizeIP: false,
+          anonymizeIP: true,
         },
         docs: {
           routeBasePath: '/', // Serve the docs at the site's root
