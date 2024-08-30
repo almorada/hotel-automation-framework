@@ -1,9 +1,9 @@
 ---
-title: Robotics in Hospitality
+title: Robótica en la Hospitalidad
 ---
 
-# Robotics in Hospitality
+# Robótica en la Hospitalidad
 
-This section will discuss the use of robotics in automating room service, cleaning, and other tasks in hospitality.
+Esta sección discutirá el uso de la robótica para automatizar el servicio a la habitación, la limpieza y otras tareas en la hospitalidad.
 
-Content coming soon! Contributions from experts in robotics automation are highly valued.
+Si bien reconocemos la importancia de la robótica en el futuro de la automatización hotelera, esta es un área donde nuestra experiencia actual es limitada. Creemos que las mejores ideas y innovaciones en este campo provienen de aquellos que están activamente involucrados con la tecnología. Si eres un experto de la industria, investigador o practicante con experiencia en robótica, te invitamos a contribuir con tu conocimiento para ayudarnos a construir un recurso integral para la comunidad hotelera. Tu experiencia podría beneficiar enormemente a aquellos que buscan explorar el potencial de la robótica en sus operaciones. Considera compartir tus ideas a través de nuestra guía de contribuciones.
