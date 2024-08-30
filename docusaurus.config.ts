@@ -74,7 +74,9 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
+    metadata: [
+      {name: 'keywords', content: 'automation, hotel, accomodation, guide, framework, encyclopedia'},
+    ],
     image: 'img/social-card.jpeg',
     navbar: {
       title: 'Hotel Automation Framework',
