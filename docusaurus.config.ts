@@ -46,7 +46,9 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/almorada/hotel-automation-framework/edit/main',
-          editLocalizedFiles: true
+          editLocalizedFiles: true,
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true
         },
         blog: false,
         // blog: {
