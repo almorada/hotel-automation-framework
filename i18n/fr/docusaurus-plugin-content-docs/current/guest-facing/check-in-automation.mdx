@@ -1,0 +1,125 @@
+---
+title: "Base 1: Check-In"
+sidebar_position: 1
+---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+
+# Check-In
+
+Le check-in est la première interaction significative qu'un client a avec votre hôtel, et il donne le ton pour tout son séjour. L'automatisation du processus de check-in améliore non seulement l'expérience client, mais aussi l'efficacité opérationnelle en réduisant le besoin d'interactions à la réception, en minimisant les temps d'attente et en libérant le personnel pour qu'il se concentre sur des services plus personnalisés. De plus, c'est un premier pas crucial vers l'élimination complète de la réception, si tel est votre objectif. Cet article explore les différents aspects de l'automatisation du check-in, y compris les technologies impliquées, les avantages, les défis et les meilleures pratiques.
+
+## 1. **Pourquoi automatiser le check-in?**
+<Tabs>
+  <TabItem value="guest_experience" label="Amélioration de l'expérience client" default>
+L'automatisation du check-in offre aux clients une expérience de self-service fluide, de plus en plus prisée par les voyageurs qui apprécient la commodité et la rapidité. En permettant aux clients de s'enregistrer en ligne ou via un kiosque, les hôtels peuvent éliminer le besoin d'attendre à la réception, offrant ainsi un début de séjour plus agréable.
+  </TabItem>
+  <TabItem value="operations" label="Efficacité opérationnelle">
+L'automatisation réduit la charge de travail du personnel de la réception, leur permettant de se concentrer sur d'autres tâches cruciales, comme fournir des services personnalisés ou gérer des demandes complexes de la part des clients. Elle réduit également le risque d'erreurs humaines lors de la saisie des données clients et simplifie l'ensemble du processus de check-in.
+  </TabItem>
+  <TabItem value="cost" label="Réduction des coûts">
+
+En minimisant le besoin de processus manuels de check-in, les hôtels peuvent réduire les coûts de personnel et d'allocation de ressources, en particulier lors des périodes de forte affluence. De plus, l'automatisation du check-in est une étape fondamentale vers la suppression potentielle de la réception, ce qui peut réduire considérablement les frais opérationnels.
+  </TabItem>
+  <TabItem value="health" label="Conformité en matière de santé et sécurité">
+En période de préoccupations sanitaires, telles que les pandémies, l'automatisation du check-in peut jouer un rôle crucial en minimisant les contacts physiques et en respectant les directives de distanciation sociale. Cela peut être un facteur clé pour assurer la sécurité des clients et la conformité aux réglementations.
+  </TabItem>
+</Tabs>
+
+## 2. **Alternatives pour l'automatisation du check-in**
+
+### 2.1. **Pré-enregistrement en ligne**
+
+Le pré-enregistrement en ligne permet aux clients de compléter le processus de check-in avant leur arrivée à l'hôtel. Cela peut se faire via le site web de l'hôtel ou via un lien envoyé par e-mail, SMS ou messagerie OTA. Les clients peuvent entrer leurs informations personnelles, telles que leur nom, leurs informations d'identité et leurs coordonnées, à l'avance.
+
+**L'approche préférée d'Almorada est le pré-enregistrement en ligne** car elle offre un équilibre optimal entre commodité (nécessitant uniquement une connexion internet sans téléchargement d'application mobile) et la possibilité de compléter le processus à l'avance. De plus, elle s'intègre bien avec les clés numériques, telles que les codes PIN, qui ne nécessitent pas de connexion Bluetooth ou d'autres configurations complexes.
+
+#### 2.1.1. **Flux de processus**
+- **Notification**: Les clients reçoivent un e-mail, un SMS ou un message OTA les invitant à s'enregistrer en ligne. Ce message comprend un lien vers la page de check-in de l'hôtel.
+- **Saisie des données**: Les clients fournissent les informations personnelles essentielles requises pour le check-in.
+- **Confirmation**: Une fois le processus terminé, les clients reçoivent une confirmation. Cette confirmation peut inclure des détails supplémentaires, tels que le numéro de chambre et les instructions pour l'accès à la chambre, **si l'hôtel a mis en œuvre une automatisation de l'accès aux chambres** (voir l'[article associé](./room-access-automation.md)). Sinon, si les clients doivent toujours se rendre à la réception pour, par exemple, recevoir une carte d'accès physique, la confirmation l'indiquera. Dans ce cas, le pré-enregistrement reste bénéfique car il simplifie une partie du processus, bien qu'il ne s'agisse pas d'une automatisation complète.
+
+#### 2.1.2. **Avantages**
+- **Réduit la congestion à la réception**: Accélère le processus de check-in en permettant aux clients de le compléter à l'avance.
+- **Offre une opportunité de vente incitative**: Lors du pré-enregistrement en ligne, les hôtels peuvent proposer des surclassements de chambres, des services additionnels (comme le petit-déjeuner ou un départ tardif), et des promotions pour des services de spa, de restauration ou des commodités en chambre.
+- **Collecte des préférences supplémentaires des clients**: Permet à l'hôtel de recueillir à l'avance des préférences client plus détaillées, améliorant ainsi la personnalisation.
+
+#### 2.1.3. **Défis**
+- **Sécurité des données**: Des mesures robustes doivent être en place pour protéger les informations des clients.
+- **Adoption par les clients**: Bien que ce soit efficace, environ 90% des clients complètent avec succès le pré-enregistrement en ligne, selon l'expérience d'Almorada. Certains clients peuvent néanmoins préférer les méthodes traditionnelles de check-in, et des dispositions doivent être prises pour eux.
+
+### 2.2. **Kiosques de self check-in**
+
+Les kiosques de self check-in sont une extension physique du processus de pré-enregistrement en ligne, situés dans le hall de l'hôtel. Ces kiosques permettent aux clients de s'enregistrer à leur arrivée, de vérifier leur identité et de recevoir leur clé de chambre sans interaction avec le personnel de la réception.
+
+**Note** : Almorada a une expérience limitée avec les kiosques de self check-in. Nous invitons les experts de l'industrie à contribuer avec des informations et des idées supplémentaires dans cette section.
+
+#### 2.2.1. **Caractéristiques**
+- **Interface conviviale**: Interface tactile avec options multilingues.
+- **Vérification d'identité**: Intégration avec des scanners d'identité ou des caméras pour vérifier l'identité des clients.
+- **Traitement des paiements**: Capacité à traiter les paiements pour toutes charges en suspens.
+- **Distribution de clés**: Distribue les clés de chambre ou fournit d'autres options de clés, selon la configuration de l'hôtel.
+
+#### 2.2.2. **Avantages**
+- **Fournit un processus de check-in rapide et efficace**: Réduit les temps d'attente et les interactions physiques.
+- **Disponible 24/7**: Idéal pour les clients arrivant tard dans la nuit ou tôt le matin.
+
+#### 2.2.3. **Défis**
+- **Coûts matériels**: Investissement initial dans les kiosques et leur maintenance.
+- **Familiarité des clients**: Certains clients peuvent avoir besoin d'aide pour utiliser les kiosques.
+
+### 2.3. **Check-in mobile**
+
+Le check-in mobile est une solution numérique où les clients utilisent leur smartphone pour compléter le processus de check-in. Compte tenu de la nécessité de télécharger une application mobile, il est conseillé d'étendre les fonctionnalités de l'application pour inclure non seulement le processus de check-in, mais aussi des fonctionnalités supplémentaires telles qu'une clé mobile et des services de conciergerie virtuelle. Bien que la clé mobile ne fasse pas strictement partie du processus de check-in, l'intégration de ces fonctionnalités améliore l'expérience globale des clients.
+
+#### 2.3.1. **Flux de processus**
+- **Téléchargement de l'application**: Les clients téléchargent l'application mobile de l'hôtel.
+- **Check-In**: Comme pour le pré-enregistrement en ligne, les clients fournissent leurs informations via l'application.
+- **Clé mobile**: Une fois le processus terminé, une clé numérique de la chambre est envoyée sur le smartphone du client, lui permettant de contourner entièrement la réception. [Le pré-enregistrement](#21-online-pre-check-in) peut offrir la même fonctionnalité, sauf si la serrure de la porte nécessite une application mobile pour l'accès.
+
+#### 2.3.2. **Avantages**
+- **Élimine le besoin de clés ou de cartes physiques**: Les clients peuvent accéder à leur chambre via leur smartphone.
+- **Améliore la commodité pour les clients**: Particulièrement attrayant pour les voyageurs technophiles.
+- **Réduit l'impact environnemental**: Minimise l'utilisation de cartes-clés en plastique.
+
+#### 2.3.3. **Défis**
+- **Dépendance à la technologie**: Exige que les clients disposent d'un smartphone compatible et soient à l'aise avec l'utilisation des applications mobiles.
+- **Téléchargement d'application**: Tous les clients ne seront peut-être pas disposés à télécharger une application supplémentaire, surtout pour un court séjour.
+
+
+## 3. **Intégration avec le PMS et synchronisation des données en temps réel**
+Le Système de Gestion Hôtelière (PMS) est l'épine dorsale des opérations de l'hôtel, et la réussite de l'automatisation du check-in repose sur son intégration avec le PMS. Cela garantit que toutes les informations clients, la disponibilité des chambres et les données de facturation sont synchronisées en temps réel.
+
+- Met à jour les profils des clients avec les détails du check-in.
+- Synchronise les informations de facturation pour toute charge encourue lors du check-in.
+- **Intégration avec les systèmes CRM**: En intégrant l'automatisation du check-in avec les systèmes de gestion de la relation client (CRM), les hôtels peuvent améliorer la personnalisation. Les données collectées lors du check-in peuvent être utilisées pour personnaliser l'expérience des clients, en offrant des recommandations et services sur mesure.
+
+## 4. **Considérations sur la conformité et la sécurité**
+
+### 4.1. **Protection des données et conformité à la vérification d'identité**
+Avec l'augmentation de l'utilisation des méthodes de check-in numérique, assurer la sécurité des données des clients est primordial. Les hôtels doivent se conformer aux réglementations sur la protection des données, telles que le RGPD, en veillant à ce que toutes les informations personnelles soient stockées et traitées de manière sécurisée. De plus, les solutions de check-in automatisées doivent respecter les lois et réglementations locales concernant la vérification d'identité. Cela peut inclure la conservation des copies des documents d'identité pendant une période spécifiée ou la garantie que les données sont cryptées et transmises de manière sécurisée. Pour plus de détails, consultez notre article dédié sur la [conformité et la sécurité](../operational/compliance-security.md).
+
+### 4.2. **✅ Rapports automatiques aux autorités**
+L'un des avantages les plus significatifs de l'automatisation du check-in est la possibilité de générer et d'envoyer automatiquement des rapports aux autorités, telles que la police. Avec les données collectées électroniquement lors du check-in, ces rapports peuvent être envoyés automatiquement, réduisant ainsi le besoin de rapporter manuellement et assurant la conformité aux réglementations locales.
+
+## 5. **Meilleures pratiques pour la mise en œuvre de l'automatisation du check-in**
+
+<Tabs>
+  <TabItem value="friendly" label="Design convivial" default>
+Assurez-vous que toutes les interfaces de check-in automatisées sont intuitives et faciles à utiliser. Considérez les besoins de tous les clients, y compris ceux qui ne sont pas technophiles, en fournissant des instructions claires et un support multilingue.
+  </TabItem>
+  <TabItem value="staff" label="Formation du personnel">
+Bien que l'automatisation du check-in réduise le besoin de personnel à la réception, il est crucial de former votre équipe aux nouveaux systèmes. Le personnel doit être prêt à aider les clients qui rencontrent des difficultés avec le processus automatisé. De plus, surmonter la résistance au changement est essentiel, car il est naturel que le personnel s'accroche aux anciennes habitudes. S'assurer que tout le personnel adopte le nouveau système est vital pour la gestion centralisée et les rapports automatiques aux autorités.
+  </TabItem>
+  <TabItem value="testing" label="Test pilote">
+Avant de mettre en œuvre complètement l'automatisation du check-in, effectuez un test pilote pour identifier les problèmes potentiels. Recueillez les commentaires des clients et du personnel pour affiner le processus.
+  </TabItem>
+  <TabItem value="monitoring" label="Suivi et amélioration continus">
+Surveillez régulièrement les performances de vos systèmes de check-in automatisés. Utilisez les commentaires des clients et les analyses de données pour apporter des améliorations continues et garantir que le processus reste fluide et efficace.
+  </TabItem>
+</Tabs>
+
+## 6. **Conclusion**
+
+L'automatisation du check-in offre des avantages significatifs tant pour les clients que pour les opérations hôtelières. En adoptant des technologies telles que le pré-enregistrement en ligne, les kiosques de self check-in et le check-in mobile, les hôtels peuvent rationaliser leurs processus, réduire les coûts et offrir une expérience supérieure aux clients. Cependant, une mise en œuvre réussie nécessite une planification minutieuse, des mesures de sécurité robustes et un engagement envers l'amélioration continue. Avec ces éléments en place, l'automatisation du check-in peut devenir un pilier de l'efficacité opérationnelle et de la satisfaction des clients de votre hôtel.
