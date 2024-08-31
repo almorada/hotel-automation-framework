@@ -1,14 +1,14 @@
 {
   "title": {
     "message": "Энциклопедия Автоматизации Гостиниц",
-    "description": "Название в навигационной панели"
+    "description": "The title in the navbar"
   },
   "logo.alt": {
     "message": "Логотип",
-    "description": "Альтернативный текст логотипа в навигационной панели"
+    "description": "The alt text of navbar logo"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "Пункт навигационной панели с меткой GitHub"
+    "description": "Navbar item with label GitHub"
   }
 }

@@ -1,18 +1,22 @@
 {
   "version.label": {
     "message": "Suivant",
-    "description": "L'étiquette pour la version current"
+    "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Foundation": {
     "message": "Fondation",
-    "description": "L'étiquette pour la catégorie Foundation dans le sidebar tutorialSidebar"
+    "description": "The label for category Foundation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Guest-Facing Automations": {
     "message": "Automatisations pour les clients",
-    "description": "L'étiquette pour la catégorie Guest-Facing Automations dans le sidebar tutorialSidebar"
+    "description": "The label for category Guest-Facing Automations in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Operational Automations": {
     "message": "Automatisations opérationnelles",
-    "description": "L'étiquette pour la catégorie Operational Automations dans le sidebar tutorialSidebar"
+    "description": "The label for category Operational Automations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Foundation.link.generated-index.description": {
+    "message": "Les bases de l'automatisation hôtelière commencent par la compréhension du système clé qui dirige vos opérations : le Système de Gestion Hôtelière (PMS). Le PMS est le centre névralgique qui intègre et gère tous les aspects des opérations hôtelières, y compris les réservations de chambres, les données des clients et la facturation. La Gestion des Canaux et le Moteur de Réservation sont des composants essentiels qui fonctionnent principalement au sein du PMS pour gérer la distribution sur les plateformes en ligne et les réservations directes. Sans ces systèmes fondamentaux, la mise en œuvre d'une automatisation supplémentaire devient difficile.",
+    "description": "The generated-index page description for category Foundation in sidebar tutorialSidebar"
   }
 }

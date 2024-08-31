@@ -1,18 +1,22 @@
 {
   "version.label": {
     "message": "Siguiente",
-    "description": "La etiqueta para la versión current"
+    "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Foundation": {
     "message": "Fundamentos",
-    "description": "La etiqueta para la categoría Foundation en el sidebar tutorialSidebar"
+    "description": "The label for category Foundation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Guest-Facing Automations": {
     "message": "Automatizaciones para huéspedes",
-    "description": "La etiqueta para la categoría Guest-Facing Automations en el sidebar tutorialSidebar"
+    "description": "The label for category Guest-Facing Automations in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Operational Automations": {
     "message": "Automatizaciones operativas",
-    "description": "La etiqueta para la categoría Operational Automations en el sidebar tutorialSidebar"
+    "description": "The label for category Operational Automations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Foundation.link.generated-index.description": {
+    "message": "La base de la automatización hotelera comienza con la comprensión del sistema clave que impulsa sus operaciones: el Sistema de Gestión Hotelera (PMS). El PMS es el centro neurálgico que integra y gestiona todos los aspectos de las operaciones del hotel, incluidas las reservas de habitaciones, los datos de los huéspedes y la facturación. La Gestión de Canales y el Motor de Reservas son componentes vitales que funcionan principalmente dentro del PMS para manejar la distribución en plataformas en línea y reservas directas. Sin estos sistemas fundamentales, implementar una mayor automatización se vuelve un desafío.",
+    "description": "The generated-index page description for category Foundation in sidebar tutorialSidebar"
   }
 }

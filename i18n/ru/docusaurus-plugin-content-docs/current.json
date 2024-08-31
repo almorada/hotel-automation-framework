@@ -1,18 +1,22 @@
 {
   "version.label": {
     "message": "Следующая",
-    "description": "Ярлык для версии current"
+    "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Foundation": {
     "message": "Основа",
-    "description": "Ярлык для категории Foundation в sidebar tutorialSidebar"
+    "description": "The label for category Foundation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Guest-Facing Automations": {
     "message": "Автоматизация для гостей",
-    "description": "Ярлык для категории Guest-Facing Automations в sidebar tutorialSidebar"
+    "description": "The label for category Guest-Facing Automations in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Operational Automations": {
     "message": "Операционная автоматизация",
-    "description": "Ярлык для категории Operational Automations в sidebar tutorialSidebar"
+    "description": "The label for category Operational Automations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Foundation.link.generated-index.description": {
+    "message": "Основа автоматизации гостиницы начинается с понимания ключевой системы, которая управляет вашими операциями: системы управления гостиницей (PMS). PMS является центральным узлом, который интегрирует и управляет всеми аспектами работы гостиницы, включая бронирование номеров, данные гостей и выставление счетов. Управление каналами и система бронирования — важные компоненты, которые работают в рамках PMS для обработки дистрибуции на онлайн-платформах и прямых бронирований. Без этих основных систем внедрение дальнейшей автоматизации становится сложной задачей.",
+    "description": "The generated-index page description for category Foundation in sidebar tutorialSidebar"
   }
 }

@@ -2,6 +2,7 @@
   "label": "Foundation",
   "position": 2,
   "link": {
+    "description": "The Foundation of hotel automation starts with understanding the key system that drives your operations: the Property Management System (PMS). The PMS is the central hub that integrates and manages all aspects of hotel operations, including room bookings, guest data, and billing. Channel Management and the Booking Engine are vital components that primarily work within the PMS to handle distribution across online platforms and direct reservations. Without these foundational systems, implementing further automation becomes challenging.",
     "type": "generated-index"
   }
 }
