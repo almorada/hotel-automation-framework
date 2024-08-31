@@ -75,8 +75,11 @@ const config: Config = {
 
   themeConfig: {
     metadata: [
-      {name: 'keywords', content: 'automation, hotel, accomodation, guide, framework, encyclopedia'},
+      { name: 'keywords', content: 'automation, hotel, accomodation, guide, framework, encyclopedia' },
     ],
+    tableOfContents: {
+      maxHeadingLevel: 4,
+    },
     image: 'img/social-card.jpeg',
     navbar: {
       title: 'Hotel Automation Framework',
