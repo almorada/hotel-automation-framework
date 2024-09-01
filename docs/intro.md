@@ -3,22 +3,23 @@ sidebar_position: 1
 slug: /
 ---
 
-# Введение
+# Introduction
 
-Добро пожаловать в Энциклопедию Автоматизации Гостиниц, инициативу, направленную на **централизацию знаний** в области автоматизации гостиничного бизнеса. Эта энциклопедия была создана из необходимости в **согласованном ресурсе**, который объединяет идеи, разбросанные по блогам, частным руководствам и различным коммерческим предложениям.
+Welcome to the Hotel Automation Framework, an initiative designed to **centralize knowledge** in hospitality automation. This framework was created out of the need for a **cohesive resource** that brings together insights scattered across blog posts, private guides, and various commercial offerings.
 
-## Зачем нужна автоматизация?
+## Why Automation?
 
-Автоматизируя рутинные задачи, отели могут значительно **улучшить операционную эффективность**, **сократить расходы** и **повысить качество обслуживания гостей**. Автоматизация позволяет персоналу сосредоточиться на предоставлении персонализированных услуг, а не на выполнении однообразных задач. В условиях высокой конкуренции автоматизация становится не просто преимуществом, а необходимостью.
+By automating repetitive tasks, hotels can significantly **improve operational efficiency**, **reduce costs**, and **enhance the guest experience**. Automation allows staff to focus on providing personalized service rather than getting bogged down by mundane tasks. In a highly competitive market, automation is not just an advantage—it's becoming a necessity.
 
-## Открытый исходный код
+## Open-source 
 
-Содержание этого сайта доступно бесплатно. Мы приглашаем всех просматривать и вносить вклад в исходный код, делясь своим опытом в отрасли.
+The content of this website is free. Everyone is welcome to view and contribute to the source-code with your industry's expertise. 
 
-## Подход без привязки к технологиям
+## Technology-Agnostic Approach
 
-Одним из ключевых принципов этой энциклопедии является **подход без привязки к технологиям**. Мы не поддерживаем какое-либо конкретное программное обеспечение или оборудование, чтобы способствовать **сотрудничеству и инновациям**. Вместо этого мы обсуждаем возможные автоматизации и перечисляем различные сторонние решения, которые могут помочь вам их реализовать.
+One of the key principles of this framework is its **technology-agnostic** approach. We do not endorse any particular software or hardware to encourage **collaboration and innovation**. Instead, we discuss possible automations and list various third-party solutions that can help you achieve them.  
 
-## Выбор уровня автоматизации
+## Choosing Your Level of Automation
 
-Автоматизация не является универсальным решением. Отели могут внедрять **разные уровни автоматизации**, в зависимости от их размера, бюджета и целей. Эта энциклопедия предлагает **широкий спектр** возможностей автоматизации, позволяя вам **выбирать** решения, которые лучше всего соответствуют вашим конкретным потребностям.
+Automation isn’t a one-size-fits-all solution. Hotels can implement **varying levels of automation**, depending on their size, budget, and goals. This framework presents a **broad spectrum** of automation possibilities, allowing you to **pick and choose** the solutions that best meet your specific needs.
+
