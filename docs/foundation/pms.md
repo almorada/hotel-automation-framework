@@ -5,7 +5,7 @@ title: Property Management System (PMS)
 
 ## Introduction to PMS
 
-A Property Management System (PMS) is the backbone of hotel operations, serving as the centralized platform that manages reservations, guest check-ins and check-outs, room assignments, billing, and much more. Essentially, a PMS is the nerve center of a hotel’s daily operations, ensuring that all aspects of guest management are coordinated seamlessly.
+A Property Management System (PMS) is the centralized platform that manages reservations, guest check-ins and check-outs, room assignments, billing, and much more. Essentially, a PMS is the nerve center of a hotel’s daily operations, ensuring that all aspects of guest management are coordinated seamlessly.
 
 The PMS is an integral part of the **Foundation** for any hotel automation framework. Without it, advanced features like automated check-in, check-out, and room access would not be feasible or practical. A PMS is what ties all these functions together, providing the necessary data and structure for them to operate smoothly.
 

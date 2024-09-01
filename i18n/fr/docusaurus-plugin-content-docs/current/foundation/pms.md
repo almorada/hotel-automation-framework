@@ -4,9 +4,9 @@ title: Système de Gestion Hôtelière (PMS)
 
 ## Introduction au PMS
 
-Un Système de Gestion Hôtelière (PMS) est la colonne vertébrale des opérations d'un hôtel, servant de plateforme centralisée qui gère les réservations, les enregistrements et départs des clients, l'affectation des chambres, la facturation et bien plus encore. Essentiellement, un PMS est le centre nerveux des opérations quotidiennes d'un hôtel, garantissant que tous les aspects de la gestion des clients sont coordonnés de manière transparente.
+Un Système de Gestion Hôtelière (PMS) est la plateforme centralisée qui gère les réservations, les arrivées et départs des clients, l'attribution des chambres, la facturation et bien plus encore. Essentiellement, un PMS est le centre névralgique des opérations quotidiennes d'un hôtel, assurant que tous les aspects de la gestion des clients soient coordonnés de manière fluide.
 
-Le PMS est une partie intégrante de la **fondation** de tout cadre d'automatisation hôtelière. Sans lui, des fonctionnalités avancées comme l'enregistrement automatisé, le départ et l'accès aux chambres ne seraient ni réalisables ni pratiques. Un PMS relie toutes ces fonctions ensemble, fournissant les données et la structure nécessaires pour qu'elles fonctionnent sans accroc.
+Le PMS est une partie intégrante de la **Fondation** de tout cadre d'automatisation hôtelière. Sans lui, des fonctionnalités avancées comme l'enregistrement automatisé, le départ et l'accès aux chambres ne seraient pas réalisables ou pratiques. Un PMS est ce qui lie toutes ces fonctions ensemble, fournissant les données et la structure nécessaires pour qu'elles fonctionnent sans problème.
 
 <details>
   <summary>Pourquoi PMS et autres fondations sont essentiels</summary>

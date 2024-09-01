@@ -4,10 +4,6 @@ title: Booking Engine
 
 # Understanding the Role of a Booking Engine in Hotel Automation
 
-The **booking engine** is one of the foundational components of modern hotel automation, serving as the bridge between potential guests and your property’s reservation system. While the concept of a booking engine is widely recognized in the hospitality industry, its role in the broader context of automation is often underappreciated. In this article, we’ll explore what a booking engine is, why it’s essential, and how it can be optimized to enhance both operational efficiency and the guest experience.
-
-## What is a Booking Engine?
-
 A **booking engine** is an application integrated into a hotel’s website or connected via third-party platforms that allows guests to book rooms directly online. It processes reservations, manages availability in real-time, and handles payments securely. The booking engine operates 24/7, providing a seamless and efficient way for guests to make reservations at their convenience.
 
 ## Why is a Booking Engine Essential?

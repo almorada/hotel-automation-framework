@@ -2,9 +2,10 @@
 title: Gestión de Canales
 ---
 
-# Comprender los Channel Managers: Un Pilar Clave en la Automatización Hotelera
+# Comprender los Gestores de Canales: Un Pilar Clave en la Automatización Hotelera
 
-En el dinámico mundo de la hospitalidad, gestionar de manera eficiente la disponibilidad de habitaciones y las tarifas en múltiples canales de distribución es crucial. Si trabajas con agencias de viajes en línea (OTAs) como Booking.com, Expedia o Airbnb, una fuente importante de reservas para la mayoría de los hoteles, un **Channel Manager** se convierte en una herramienta indispensable. Un channel manager es una solución de software que permite a los hoteles gestionar su inventario de habitaciones y tarifas en varios canales de distribución en línea, incluidos OTAs y el propio sitio web del hotel. Sirve como un centro central donde todos tus canales de distribución se sincronizan, asegurando que la información de tu propiedad esté siempre actualizada. Al integrarse con tu **sistema de gestión hotelera (PMS)**, ayuda a maximizar las reservas y los ingresos, minimizando al mismo tiempo el riesgo de sobreventa o de perder oportunidades.
+Un **gestor de canales** es una solución de software que permite a los hoteles gestionar su inventario de habitaciones y tarifas en múltiples canales de distribución en línea, incluidas las agencias de viajes en línea (OTA: Booking.com, Expedia, etc.) y el sitio web del hotel. Sirve como un centro central donde se sincronizan todos sus canales de distribución. Al integrarse con su **Sistema de Gestión Hotelera (PMS)**, ayuda a maximizar las reservas y los ingresos, minimizando el riesgo de sobreventa o de oportunidades perdidas.
+
 
 ## ¿Cómo funciona un Channel Manager?
 

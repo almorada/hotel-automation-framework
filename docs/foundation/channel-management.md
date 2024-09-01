@@ -5,7 +5,7 @@ title: Channel Management
 
 # Understanding Channel Managers: A Key Pillar in Hotel Automation
 
-In the fast-paced world of hospitality, efficiently managing room availability and pricing across multiple distribution channels is crucial. If you’re working with Online Travel Agencies (OTAs) like Booking.com, Expedia, or Airbnb—a major source of bookings for most hotels—a **Channel Manager** becomes an indispensable tool. A channel manager is a software solution that allows hotels to manage their room inventory and rates across multiple online distribution channels, including OTAs and the hotel’s own website. It serves as a central hub where all your distribution channels are synchronized, ensuring that your property’s information is consistently updated. By integrating with your **Property Management System (PMS)**, it helps maximize bookings and revenue while minimizing the risk of overbooking or missed opportunities.
+**A channel manager** is a software solution that allows hotels to manage their room inventory and rates across multiple online distribution channels, including Online Travel Agencies (OTA: Booking.com, Expedia, etc) and the hotel’s own website. It serves as a central hub where all your distribution channels are synchronized. By integrating with your **Property Management System (PMS)**, it helps maximize bookings and revenue while minimizing the risk of overbooking or missed opportunities.
 
 ## How Does a Channel Manager Work?
 
@@ -16,9 +16,7 @@ At its core, a channel manager automates the communication between your PMS and 
 2. **Real-Time Synchronization**: As bookings are made—whether through OTAs, your hotel’s website, or other channels—the channel manager updates the PMS instantly. This real-time synchronization ensures that once a room is booked on one platform, it’s no longer available on others, reducing the risk of overbooking and streamlining your operations.
 
 :::note Rate Management Tip
-Dynamic pricing is essential for maximizing revenue, and your channel manager can be a powerful tool in this regard. By integrating with revenue management software, you can adjust rates based on demand, competition, or special events. 
-
-[Learn more](../operational/revenue-pricing.md)
+[Dynamic pricing](../operational/revenue-pricing.md) is essential for maximizing revenue, and your channel manager can be a powerful tool in this regard. By integrating with revenue management software, you can adjust rates based on demand, competition, or special events. 
 :::
 
 ## Why is a Channel Manager Essential?
