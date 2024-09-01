@@ -104,6 +104,11 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://saas.almorada.es',
+          label: 'Almorada',
+          position: 'right',
+        },
       ],
     },
     footer: {
