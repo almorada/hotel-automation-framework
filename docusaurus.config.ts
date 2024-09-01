@@ -85,7 +85,7 @@ const config: Config = {
       title: 'Hotel Automation Framework',
       logo: {
         alt: 'Logo',
-        src: 'img/logo.jpeg',
+        src: 'img/logo.webp',
       },
       items: [
         // {
